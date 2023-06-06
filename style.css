@@ -1,3 +1,20 @@
+:root {
+  --primaryColor: #7c9dd1;
+  --darkPrimaryColor: #253159;
+  --secondaryColor: ##c85735;
+  --whiteColor: #fff;
+  --blackColor: #000;
+  --grayBgColor: #e1e1e2;
+  --greyTitleColor: #adadaf;
+  --darkGreyTitleColor: #656b7a;
+  --cardBgColor: #9abdf4;
+  --iconColor: #0086f6;
+  --bgMainColor: #497ac0;
+  --pColor: #799bd2;
+  --lighPColor: #bdcee8;
+  --spanColor: #d6e1f1;
+}
+
 * {
   margin: 0;
   padding: 0;
